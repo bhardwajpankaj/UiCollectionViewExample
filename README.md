@@ -1,5 +1,10 @@
 # examples
-Examples of controllers and ios programming 
+Examples of UICollectionView inside a UITableView using Alamofire for services and Object Mapper to save data in Models
+
+What we have used:
+Cocoapods:
+1 - Object Mapper
+2 - Alamofire
 
 This is a example of UICollectionView inside a UITableViwCell
 
@@ -7,4 +12,4 @@ NOTE: Update podfile and then open project with workspace file
 
 
 
-![simulator screen shot 24-jul-2016 2 45 03 pm](https://cloud.githubusercontent.com/assets/5277297/17083106/710cbb4e-51b2-11e6-8c61-bd2fd40d03b4.png)
+![screen shot 2016-07-24 at 3 28 09 pm](https://cloud.githubusercontent.com/assets/5277297/17083142/4e04f78c-51b3-11e6-83f1-b8bc34e4e266.png)
